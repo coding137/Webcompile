@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Mono);
+  @import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i);
+div.action-buttons{
+			/*position:absolute;*/
+			/*top:50%;*/
+			/*left:10px;*/
+			margin-top:-20px;
+			width:10px;
+			height:10px;
+			  background: Crimson;
+			border-radius:50%;
+			box-shadow:
+
+				15px 0 0 Orange,
+				30px 0 0 LimeGreen;
+		}
+div.code-topic{
+	color: #b88889;
+	font-family: 'roboto';
+	margin-bottom: 10px;
+
+}
+.codes{
+	margin-bottom: 60px;
+}
+div.code-editor{
+	
+	width: 80%;
+	height: 400px;
+}
+div.code-editor-btn{
+	width: 80%;
+	height: 30px;
+}
+	textarea.inputa{
+	border-radius: 10px;
+	background-color: #A3A3A388;
+	width: 80%;
+	height: 5%;
+	padding: 1em;
+	font-family: sans-serif;
+	font-size: 12px;line-height:1.5em;
+	vertical-align:middle; 
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0);
+    vertical-align: middle;
+	}
+
+.sendbtn{
+	background-color: #33333399;
+	  text-align: center;
+  text-decoration: none;
+  padding: 14px 10px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  width: 103%;
+  font-size: 16px;
+  vertical-align: middle;
+}
+
+
+textarea.code-editor-txtarea{
+	border-radius: 10px;
+	background-color: #A3A3A388;
+	width: 100%;
+	height: 80%;
+	padding:1em; 
+	font-family: sans-serif;
+	font-size: 20px;line-height:1.5em;
+	vertical-align:middle; 
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0);
+
+}
+textarea.code-result-txtarea{
+	border-radius: 10px;
+	background-color: #A3A3A388;
+	width: 100%;
+	height: 80%;
+	padding:1em; 
+	font-family: sans-serif;
+	font-size: 20px;
+	line-height:1.5em;
+	vertical-align:middle; 
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0);
+}
+
+
+div.code-result{
+	margin-top: 20px;
+	width: 80%;
+	height: 400px;
+}
+textarea.code-result{
+		padding:1em; 
+	
+
+	font-size:1em;
+	line-height:1.5em;
+	vertical-align:middle; 
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0);
+}
+html{
+	/*background-image: url("../images/pexels-photo.jpg");*/
+	/*background-image: linear-gradient(top, #33799d, #e8ebb4);*/
+
+background-image: url("../images/pexels-photo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+div.code-editor-bar{
+	width: 100%;
+	background-color: #b3b3b3;
+}
+
+body{
+}
