@@ -1,6 +1,6 @@
 # Web Compiler - Toy
 ## Demo
-[![WebIDE]](https://www.youtube.com/watch?v=uaJ6vJ5wU90)
+[WebIDE DEMO Video](https://www.youtube.com/watch?v=uaJ6vJ5wU90)
 
 ### **Introduction**
 
