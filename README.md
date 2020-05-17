@@ -1,12 +1,12 @@
 # Web Compiler - Toy
-
-[https://www.youtube.com/watch?v=uaJ6vJ5wU90](https://www.youtube.com/watch?v=uaJ6vJ5wU90)
+## Demo
+[![WebIDE]](https://www.youtube.com/watch?v=uaJ6vJ5wU90)
 
 ### **Introduction**
 
 ---
 
-웹 컴파일러 클론 : 인터넷IDE를 비슷하게 따라해서 만들고자 했습니다.
+웹 IDE  : 구름 웹 IDE를 비슷하게 따라해서 만들고자 했습니다.
 
 개발년도 : 2017년(대학교 4학년)
 
